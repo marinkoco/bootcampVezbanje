@@ -1,1 +1,2 @@
-
+3) izmeniti fajl vezba1.txt - upisati u fajlu sta god zelite
+done
